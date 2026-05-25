@@ -1,0 +1,15 @@
+[index.html](https://github.com/user-attachments/files/28219069/index.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <a href="index.html">HOME</a> <a href="Product.html">Product</a> <a href="Contact.html">Contact</a><br>
+   <h1><b>Bold outfit</b></h1>
+   <img src="gg.webp"width="100%" height="500px" alt="">
+   
+</body>
+</html> 
